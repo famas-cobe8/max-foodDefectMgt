@@ -35,7 +35,7 @@ Isolating the issue shows that entering double-byte characters into the availabl
 Yes, broken in current pass
 
 **[Severity: How does this problem impact the customer/user?]**
-3. Major issue / Core function disabled (Users are completely unable to set or change their display name on the platform)
+4. Major issue / Core function disabled (Users are completely unable to set or change their display name on the platform)
 
 **[Likelihood: How often will a customer/user use this feature/function?]**
 4. Low to Moderate (Typically used during initial account setup or onboarding profile adjustments)
