@@ -33,10 +33,10 @@ This confirms a recurring layout structural omission where the user display name
 Yes, broken in current pass
 
 **[Severity: How does this problem impact the customer/user?]**
-3. Major issue / Core function disabled (Users can modify their shipping address but are blocked from correcting or changing their account display name)
+8. Crash/Hang cleared by Reset; Broken core function; Temporary data loss; Severe UI/Function anomaly.
 
 **[Likelihood: How often will a customer/user use this feature/function?]**
-4. Low to Moderate
+4. Occasional.
 
 **[Repeatability: Is this problem easily reproducible?]**
 10. 100% Reproducible on this specific hardware profile
