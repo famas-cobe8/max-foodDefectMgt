@@ -33,10 +33,10 @@ This is a critical structural blockers issue; since the primary view container i
 Yes, broken in current pass
 
 **[Severity: How does this problem impact the customer/user?]**
-4. Critical issue / Core function disabled (Users cannot view their cart, modify orders, or complete checkout actions)
+8. Crash/Hang cleared by Reset; Broken core function; Temporary data loss; Severe UI/Function anomaly.
 
 **[Likelihood: How often will a customer/user use this feature/function?]**
-9. Very High (The cart is an essential checkpoint for any e-commerce application journey)
+4. Occasional.
 
 **[Repeatability: Is this problem easily reproducible?]**
 10. 100% Reproducible
