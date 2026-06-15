@@ -31,7 +31,7 @@ This represents a severe security risk as the token acts as an immediate auto-lo
 Yes, broken in current pass
 
 [Severity: How does this problem impact the customer/user?]
-5. Critical issue / High security risk (Bypasses authentication form and allows direct dashboard access via link)
+6. Critical issue / High security risk (Bypasses authentication form and allows direct dashboard access via link)
 
 [Likelihood: How often will a customer/user use this feature/function?]
 4. Low to Moderate (Triggered during account recovery flows)
